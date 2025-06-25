@@ -1,0 +1,1 @@
+This project demonstrates a Linear Regression model implemented from scratch using NumPy, optimized with Gradient Descent. It also includes tools to visualize the regression line and cost function over time.
